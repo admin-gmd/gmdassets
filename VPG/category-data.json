@@ -12,11 +12,15 @@
       }
     },
     {
-      "keyword": "Collomodul Dozen",
+      "keyword": "Collomoduul Dozen",
       "description": "Dozen afgestemd op palletmaten",
       "context": "Voor stabiele palletopbouw & transport",
       "price_per_item": "Vanaf €0,31 per doos",
-      "variant_count": "30 varianten"
+      "variant_count": "30 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/fbf5cea5-7814-45fb-9e49-06f35ed1657f-300x300.png.webp",
+        "alt": "Collomoduul Dozen"
+      }
     },
     {
       "keyword": "Palletdozen",
@@ -232,11 +236,15 @@
       }
     },
     {
-      "keyword": "Gripzakjes",
+      "keyword": "Gripzakken",
       "description": "Hersluitbare zakjes met sluitstrip en schrijfvlak",
       "context": "Voor kleine producten, onderdelen & accessoires",
       "price_per_item": "Vanaf €0,01 per zak",
-      "variant_count": "20 varianten"
+      "variant_count": "20 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/Verzendzakken-Icon-300x300.png",
+        "alt": "Gripzakken Icon"
+      }
     },
     {
       "keyword": "Vlakke Plastic Zakjes",
@@ -322,7 +330,11 @@
       "description": "Zelfklevende enveloppen voor documenten op pakketten",
       "context": "Voor facturen, pakbonnen & verzenddocumenten",
       "price_per_item": "Vanaf €0,03 per stuk",
-      "variant_count": "15 varianten"
+      "variant_count": "15 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/paklijstenveloppen-icon-300x300.png",
+        "alt": "Paklijstenveloppen Icon"
+      }
     },
     {
       "keyword": "Zakelijke Enveloppen",
@@ -663,11 +675,15 @@
       }
     },
     {
-      "keyword": "Mineraalwater",
+      "keyword": "Mineraal water",
       "description": "Verfrissend water voor werkvloer en kantoor",
       "context": "Voor personeel, magazijn & kantoor",
       "price_per_item": "Vanaf €0,89 per stuk",
-      "variant_count": "1 variant"
+      "variant_count": "1 variant",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/08/Theoni-water-gezond-ph8-mineraalwater-208x300.png",
+        "alt": "Theoni water - gezond ph8 mineraalwater"
+      }
     }
   ],
   "omsnoeringsmaterialen": [
@@ -742,14 +758,11 @@
       "description": "Aanvullende producten voor palletbescherming",
       "context": "Voor stabiliteit, bescherming & transport",
       "price_per_item": "Vanaf €0,32 per stuk",
-      "variant_count": "55 varianten"
-    },
-    {
-      "keyword": "Omsnoeringsmachines",
-      "description": "Machines voor het omsnoeren van pallets en dozen",
-      "context": "Voor stevige en veilige bundeling",
-      "price_per_item": "Vanaf €917",
-      "variant_count": "5 varianten"
+      "variant_count": "55 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/06/f642e67c-1ab7-4d08-855e-fef7253b1bf9-300x300.png",
+        "alt": "Andere Pallettoebehoren"
+      }
     }
   ],
   "verpakkingsmachines": [
@@ -776,11 +789,15 @@
       }
     },
     {
-      "keyword": "Dozensluiters",
+      "keyword": "Dozensluiter",
       "description": "Machines voor het automatisch sluiten van dozen",
       "context": "Voor snelle en consistente verpakking",
       "price_per_item": "Vanaf €1.100,40",
-      "variant_count": "7 varianten"
+      "variant_count": "7 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2025/07/Comarme_Gem_520-1-Bewerkt-300x300.png.webp",
+        "alt": "Dozensluiter"
+      }
     },
     {
       "keyword": "Palletwikkelaars",
@@ -827,11 +844,15 @@
       }
     },
     {
-      "keyword": "Sealaapparaten",
+      "keyword": "Sealapparaten",
       "description": "Machines voor het sealen van verpakkingen",
       "context": "Voor folie, zakken & bescherming",
       "price_per_item": "Vanaf €3.656,47",
-      "variant_count": "3 varianten"
+      "variant_count": "3 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2025/07/Ontwerp-zonder-titel-78-300x300.png.webp",
+        "alt": "Sealapparaten"
+      }
     },
     {
       "keyword": "Labelprinters",
@@ -935,11 +956,15 @@
       }
     },
     {
-      "keyword": "Beschermingsmateriaal",
+      "keyword": "Beschermmateriaal",
       "description": "Materialen voor extra bescherming bij verhuizing",
       "context": "Voor kwetsbare en waardevolle items",
       "price_per_item": "Vanaf €0,32 per stuk",
-      "variant_count": "176 varianten"
+      "variant_count": "176 varianten",
+      "image": {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+        "alt": "Schuimfolie Icon"
+      }
     },
     {
       "keyword": "Schuimprofielen",

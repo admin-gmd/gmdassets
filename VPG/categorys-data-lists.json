@@ -1,0 +1,1732 @@
+{
+  "kartonnen-dozen": [
+    {
+      "keyword": "Amerikaanse Vouwdozen",
+      "description": "De standaard verzenddoos voor webshops",
+      "context": "Voor webshoporders, opslag & verzending",
+      "price_per_item": "Vanaf €0,18 per doos",
+      "variant_count": "303 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/Kartonnen-Dozen-Icon-e1713338551106-300x300.png",
+        "alt": "Dubbelgolf Vouwdozen Icon"
+      },
+      "url": "https://verpakgigant.nl/c/kartonnen-dozen/amerikaanse-vouwdozen"
+    },
+    {
+      "keyword": "Collomoduul Dozen",
+      "description": "Dozen afgestemd op palletmaten",
+      "context": "Voor stabiele palletopbouw & transport",
+      "price_per_item": "Vanaf €0,31 per doos",
+      "variant_count": "30 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/fbf5cea5-7814-45fb-9e49-06f35ed1657f-300x300.png.webp",
+        "alt": "Collomoduul Dozen"
+      },
+      "url": "https://verpakgigant.nl/c/kartonnen-dozen/collomoduul-dozen/"
+    },
+    {
+      "keyword": "Palletdozen",
+      "description": "Extra grote dozen voor palletzendingen",
+      "context": "Voor bulktransport & zware producten",
+      "price_per_item": "Vanaf €9,32 per doos",
+      "variant_count": "7 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/palletdozen-icon-e1713518516977-300x300.png",
+        "alt": "Palletdozen Icon"
+      },
+      "url": "https://verpakgigant.nl/c/kartonnen-dozen/palletdozen"
+    },
+    {
+      "keyword": "Verhuisdozen",
+      "description": "Extra sterke dozen voor verhuizingen",
+      "context": "Voor boeken, servies & meer",
+      "price_per_item": "Vanaf €1,11 per doos",
+      "variant_count": "6 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/c19ed150-5af7-4ebc-af89-7f7fd7a51f33-300x300.png",
+        "alt": "Verhuisdozen InPack Categorie"
+      },
+      "url": "https://verpakgigant.nl/c/kartonnen-dozen/verhuisdozen"
+    },
+    {
+      "keyword": "Paraatdozen",
+      "description": "Voor het overzichtelijk opbergen van documenten",
+      "context": "Ideaal voor dossiers, drukwerk & papier",
+      "price_per_item": "Vanaf €0,18 per doos",
+      "variant_count": "9 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/e13cf335-0bba-4006-a550-3329cba5a321-300x300.png.webp",
+        "alt": "Paraatdozen"
+      },
+      "url": "https://verpakgigant.nl/c/kartonnen-dozen/paraatdozen/"
+    },
+    {
+      "keyword": "Geschenkverpakkingen",
+      "description": "Kartonnen dozen voor cadeaus",
+      "context": "Voor retail, geschenken & presentaties",
+      "price_per_item": "Vanaf €0,27 per stuk",
+      "variant_count": "26 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/kerstdozen-icon-300x282.png",
+        "alt": "Kerstdozen Icon"
+      },
+      "url": "https://verpakgigant.nl/c/kartonnen-dozen/geschenkverpakkingen/"
+    },
+    {
+      "keyword": "Verzenddozen",
+      "description": "Voor kleine tot middelgrote zendingen",
+      "context": "Autolock dozen, postdozen & meer",
+      "price_per_item": "Vanaf €0,10 per doos",
+      "variant_count": "61 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/brievenbusdozen-icon-e1713338659414-300x300.png",
+        "alt": "Brievenbusdoos bovenklep"
+      },
+      "url": "https://verpakgigant.nl/c/verzenddozen"
+    },
+    {
+      "keyword": "Verzendverpakkingen",
+      "description": "Kokers, boekverpakkingen & verzendzakken",
+      "context": "Voor boeken, posters & lange zendingen",
+      "price_per_item": "Vanaf €0,26 per stuk",
+      "variant_count": "50 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/vierkante-kokerdozen-icon-289x300.png.webp",
+        "alt": "Vierkante Kokerdozen icon"
+      },
+      "url": "https://verpakgigant.nl/c/verzendverpakkingen/"
+    },
+    {
+      "keyword": "A3 Kartonnen Dozen",
+      "description": "Kartonnen dozen van A3 formaat",
+      "context": "Ideaal voor grotere webshoporders",
+      "price_per_item": "Vanaf €0,69 per doos",
+      "variant_count": "10 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/Kartonnen-Dozen-Icon-e1713338551106-300x300.png",
+        "alt": "Dubbelgolf Vouwdozen Icon"
+      },
+      "url": "https://verpakgigant.nl/a3-verzenddozen/"
+    },
+    {
+      "keyword": "A4 Kartonnen Dozen",
+      "description": "Kartonnen dozen van A4 formaat",
+      "context": "Meest gekozen e-commerce formaten",
+      "price_per_item": "Vanaf €0,41 per doos",
+      "variant_count": "6 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/Kartonnen-Dozen-Icon-e1713338551106-300x300.png",
+        "alt": "Dubbelgolf Vouwdozen Icon"
+      },
+      "url": "https://verpakgigant.nl/a4-verzenddozen/"
+    }
+  ],
+  "verzenddozen": [
+    {
+      "keyword": "Brievenbusdozen",
+      "description": "Past door de brievenbus, ideaal voor kleine zendingen",
+      "context": "Voor kleding, accessoires & kleine producten",
+      "price_per_item": "Vanaf €0,10 per doos",
+      "variant_count": "24 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/brievenbusdozen-icon-e1713338659414-300x300.png",
+        "alt": "Brievenbusdoos bovenklep"
+      },
+      "url": "https://verpakgigant.nl/c/verzenddozen/brievenbusdozen"
+    },
+    {
+      "keyword": "Autolock Dozen",
+      "description": "Snel opzetbare verzenddozen zonder tape",
+      "context": "Voor webshoporders & snelle orderverwerking",
+      "price_per_item": "Vanaf €0,26 per doos",
+      "variant_count": "12 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/autolock-dozen-icon-e1713519083167-300x300.png",
+        "alt": "Autolock Dozen icon"
+      },
+      "url": "https://verpakgigant.nl/c/verzenddozen/autolock-dozen"
+    },
+    {
+      "keyword": "Postdozen",
+      "description": "Stevige dozen voor veilige verzending",
+      "context": "Voor kleine pakketten & webshoporders",
+      "price_per_item": "Vanaf €0,19 per doos",
+      "variant_count": "18 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/postdozen-icon-300x300.png",
+        "alt": "A3 postdoos"
+      },
+      "url": "https://verpakgigant.nl/c/verzenddozen/postdozen"
+    },
+    {
+      "keyword": "Kartonnen Vouwdozen",
+      "description": "De standaard verzenddoos voor webshops",
+      "context": "Voor webshoporders, opslag & verzending",
+      "price_per_item": "Vanaf €0,17 per doos",
+      "variant_count": "303 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/enkelgolf-vouwdoos-icon-e1713518901209-300x300.png",
+        "alt": "A3 verzenddoos"
+      },
+      "url": "https://verpakgigant.nl/c/kartonnen-dozen"
+    },
+    {
+      "keyword": "Verzendverpakkingen",
+      "description": "Kokers, boekverpakkingen & verzendzakken",
+      "context": "Voor boeken, posters & lange zendingen",
+      "price_per_item": "Vanaf €0,27 per stuk",
+      "variant_count": "26 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/vierkante-kokerdozen-icon-289x300.png.webp",
+        "alt": "Vierkante Kokerdozen icon"
+      },
+      "url": "https://verpakgigant.nl/c/verzendverpakkingen"
+    },
+    {
+      "keyword": "A3 Verzenddozen",
+      "description": "Verzenddozen van A3 formaat",
+      "context": "Ideaal voor grotere webshoporders",
+      "price_per_item": "Vanaf €0,69 per doos",
+      "variant_count": "10 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/enkelgolf-vouwdoos-icon-e1713518901209-300x300.png",
+        "alt": "A3 verzenddoos"
+      },
+      "url": "https://verpakgigant.nl/a3-verzenddozen/"
+    },
+    {
+      "keyword": "A4 Verzenddozen",
+      "description": "Verzenddozen van A4 formaat",
+      "context": "Meest gekozen e-commerce formaten",
+      "price_per_item": "Vanaf €0,41 per doos",
+      "variant_count": "6 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/enkelgolf-vouwdoos-icon-e1713518901209-300x300.png",
+        "alt": "A3 verzenddoos"
+      },
+      "url": "https://verpakgigant.nl/a4-verzenddozen/"
+    }
+  ],
+  "verzendzakken": [
+    {
+      "keyword": "Kledingzakken",
+      "description": "Stevige verzendzakken voor kleding",
+      "context": "Voor webshops, retourzendingen & textiel",
+      "price_per_item": "Vanaf €0,19 per zak",
+      "variant_count": "18 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/verzendzakken-kleding-icon-300x300.png",
+        "alt": "Verzendzakken Icon"
+      },
+      "url": "https://verpakgigant.nl/c/verzendzakken/kledingzakken"
+    },
+    {
+      "keyword": "Papieren Verzendzakken",
+      "description": "Duurzame verzendzakken van kraftpapier",
+      "context": "Voor kleding, documenten & lichte producten",
+      "price_per_item": "Vanaf €0,31 per zak",
+      "variant_count": "12 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/papieren-verzendzakken-icon-300x300.png",
+        "alt": "Papieren Verzendzakken Icon"
+      },
+      "url": "https://verpakgigant.nl/c/verzendzakken/papieren-verzendzakken"
+    },
+    {
+      "keyword": "Coexplastic Zakken",
+      "description": "Extra sterke verzendzakken met dubbele laag",
+      "context": "Voor kleding, softgoods & webshoporders",
+      "price_per_item": "Vanaf €0,19 per zak",
+      "variant_count": "18 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/plastic-verzendzakken-icon-297x300.png",
+        "alt": "Plastic Verzendzakken Icon"
+      },
+      "url": "https://verpakgigant.nl/c/verzendzakken/coex-verzendzakken"
+    },
+    {
+      "keyword": "Transparante Verzendzakken",
+      "description": "Doorzichtige zakken voor bescherming",
+      "context": "Voor documenten, kleding & bundels",
+      "price_per_item": "Vanaf €0,03 per zak",
+      "variant_count": "5 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/478775cc-821c-47ec-8cfa-78ed0a977587-300x300.png",
+        "alt": "Transparante Verzendzakken"
+      },
+      "url": "https://verpakgigant.nl/c/verzendzakken/transparante-verzendzakken/"
+    },
+    {
+      "keyword": "Gripzakken",
+      "description": "Hersluitbare zakjes met sluitstrip en schrijfvlak",
+      "context": "Voor kleine producten, onderdelen & accessoires",
+      "price_per_item": "Vanaf €0,01 per zak",
+      "variant_count": "20 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/Verzendzakken-Icon-300x300.png",
+        "alt": "Gripzakken Icon"
+      },
+      "url": "https://verpakgigant.nl/c/verzendzakken/gripzakjes"
+    },
+    {
+      "keyword": "Vlakke Plastic Zakjes",
+      "description": "Eenvoudige plastic zakjes zonder sluiting",
+      "context": "Voor bescherming van producten & onderdelen",
+      "price_per_item": "Vanaf €0,01 per zak",
+      "variant_count": "33 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/Ontwerp-zonder-titel-62-300x300.png.webp",
+        "alt": "Vlakke Plastic PE Zakken"
+      },
+      "url": "https://verpakgigant.nl/c/verzendzakken/vlakke-plastic-zakken/"
+    },
+    {
+      "keyword": "Bedrukte Verzendzakken",
+      "description": "Verzendzakken met eigen bedrukking",
+      "context": "Voor extra branding op jouw zendingen",
+      "price_per_item": "Op aanvraag",
+      "variant_count": null,
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/bedruke-verzendzakken-e1721659604742-300x300.webp",
+        "alt": "bedrukte verzendzakken"
+      },
+      "url": "https://verpakgigant.nl/verzendzakken-bedrukken/"
+    },
+    {
+      "keyword": "Blokbodemzakken",
+      "description": "Papieren zakken met stevige bodem",
+      "context": "Voor producten, voedsel & retail",
+      "price_per_item": "Vanaf €0,29 per zak",
+      "variant_count": "11 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/Ontwerp-zonder-titel-61-300x300.png.webp",
+        "alt": "Blokbodemzakken"
+      },
+      "url": "https://verpakgigant.nl/c/verzendzakken/blokbodemzak/"
+    },
+    {
+      "keyword": "Draagtassen",
+      "description": "Papieren tassen met stevige handgrepen",
+      "context": "Voor winkels, retail & takeaway",
+      "price_per_item": "Vanaf €0,16 per tas",
+      "variant_count": "3 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/07/topcraft-tas-Bewerkt-e1721659260896-300x300.png",
+        "alt": "Draagtassen"
+      },
+      "url": "https://verpakgigant.nl/c/verzendzakken/draagtassen/"
+    }
+  ],
+  "enveloppen": [
+    {
+      "keyword": "Luchtkussen Enveloppen",
+      "description": "Beschermende enveloppen met noppenfolie",
+      "context": "Voor breekbare producten & webshopzendingen",
+      "price_per_item": "Vanaf €0,04 per stuk",
+      "variant_count": "54 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/Enveloppen-Icon-300x300.png",
+        "alt": "Bubbel Envelop staand"
+      },
+      "url": "https://verpakgigant.nl/c/enveloppen/luchtkussen-enveloppen"
+    },
+    {
+      "keyword": "Kartonnen Enveloppen",
+      "description": "Stevige enveloppen van massief karton",
+      "context": "Voor documenten, drukwerk & platte producten",
+      "price_per_item": "Vanaf €0,21 per stuk",
+      "variant_count": "10 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/kartonnen-enveloppen-icon-300x300.png",
+        "alt": "Kartonnen Enveloppen Icon"
+      },
+      "url": "https://verpakgigant.nl/c/enveloppen/kartonnen-enveloppen"
+    },
+    {
+      "keyword": "Monsterzak Enveloppen",
+      "description": "Enveloppen met extra ruimte voor inhoud",
+      "context": "Voor samples, catalogi & dikke documenten",
+      "price_per_item": "Vanaf €0,20 per stuk",
+      "variant_count": "6 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/monsterzak-enveloppen-icon-300x300.png",
+        "alt": "Monsterzak Enveloppen Icon"
+      },
+      "url": "https://verpakgigant.nl/c/enveloppen/monsterzak-enveloppen"
+    },
+    {
+      "keyword": "Paklijst Enveloppen",
+      "description": "Zelfklevende enveloppen voor documenten op pakketten",
+      "context": "Voor facturen, pakbonnen & verzenddocumenten",
+      "price_per_item": "Vanaf €0,03 per stuk",
+      "variant_count": "15 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/paklijstenveloppen-icon-300x300.png",
+        "alt": "Paklijstenveloppen Icon"
+      },
+      "url": "https://verpakgigant.nl/c/enveloppen/paklijst-enveloppen"
+    },
+    {
+      "keyword": "Zakelijke Enveloppen",
+      "description": "Standaard enveloppen voor zakelijk gebruik",
+      "context": "Voor post, facturen & correspondentie",
+      "price_per_item": "Vanaf €0,13 per stuk",
+      "variant_count": "6 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/zakelijke-enveloppen-icon-300x300.png.webp",
+        "alt": "Zakelijke Enveloppen Icon"
+      },
+      "url": "https://verpakgigant.nl/c/enveloppen/zakelijke-enveloppen/"
+    },
+    {
+      "keyword": "A3 Enveloppen",
+      "description": "Grote enveloppen voor grote documenten",
+      "context": "Voor posters, drukwerk & grote zendingen",
+      "price_per_item": "Vanaf €0,22 per stuk",
+      "variant_count": "6 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/zakelijke-enveloppen-icon-300x300.png.webp",
+        "alt": "Zakelijke Enveloppen Icon"
+      },
+      "url": "https://verpakgigant.nl/a3-enveloppen/"
+    },
+    {
+      "keyword": "A4 Enveloppen",
+      "description": "Veelgebruikte enveloppen voor documenten",
+      "context": "Voor contracten, rapporten & administratie",
+      "price_per_item": "Vanaf €0,11 per stuk",
+      "variant_count": "9 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/zakelijke-enveloppen-icon-300x300.png.webp",
+        "alt": "Zakelijke Enveloppen Icon"
+      },
+      "url": "https://verpakgigant.nl/a4-enveloppen/"
+    },
+    {
+      "keyword": "A5 Enveloppen",
+      "description": "Compacte enveloppen voor kleinere documenten",
+      "context": "Voor flyers, boekjes & correspondentie",
+      "price_per_item": "Vanaf €0,06 per stuk",
+      "variant_count": "3 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/zakelijke-enveloppen-icon-300x300.png.webp",
+        "alt": "Zakelijke Enveloppen Icon"
+      },
+      "url": "https://verpakgigant.nl/a5-enveloppen/"
+    },
+    {
+      "keyword": "A6 Enveloppen",
+      "description": "Kleine enveloppen voor kaarten en lichte post",
+      "context": "Voor uitnodigingen & kleine documenten",
+      "price_per_item": "Vanaf €0,04 per stuk",
+      "variant_count": "1 variant",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/zakelijke-enveloppen-icon-300x300.png.webp",
+        "alt": "Zakelijke Enveloppen Icon"
+      },
+      "url": "https://verpakgigant.nl/a6-enveloppen/"
+    },
+    {
+      "keyword": "CD Enveloppen",
+      "description": "Beschermende enveloppen voor media",
+      "context": "Voor cd's & kleine accessoires",
+      "price_per_item": "Vanaf €0,06 per stuk",
+      "variant_count": "2 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2020/03/CD21-Luchtkussen-envelop-verpakgigant.nl_-300x300.png",
+        "alt": "CD21 Luchtkussen envelop 150 x 150 verpakgigant.nl"
+      },
+      "url": "https://verpakgigant.nl/cd-enveloppen/"
+    }
+  ],
+  "verzendverpakkingen": [
+    {
+      "keyword": "Kartonnen Kokers",
+      "description": "Stevige kokers voor lange en smalle producten",
+      "context": "Voor posters, tekeningen & drukwerk",
+      "price_per_item": "Vanaf €0,62 per koker",
+      "variant_count": "33 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/vierkante-kokerdozen-icon-289x300.png.webp",
+        "alt": "Vierkante Kokerdozen icon"
+      },
+      "url": "https://verpakgigant.nl/c/verzendverpakkingen/kartonnen-kokers"
+    },
+    {
+      "keyword": "Boekverpakkingen",
+      "description": "Verpakkingen met variabele hoogte en beschermende randen",
+      "context": "Voor boeken, catalogi & drukwerk",
+      "price_per_item": "Vanaf €0,26 per stuk",
+      "variant_count": "11 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/boekverpakking-icon-e1713518973192-300x300.png",
+        "alt": "Boekverpakkingen Icon"
+      },
+      "url": "https://verpakgigant.nl/c/verzendverpakkingen/boekverpakkingen"
+    },
+    {
+      "keyword": "Kalenderverpakkingen",
+      "description": "Speciale verpakkingen voor langwerpige producten",
+      "context": "Voor kalenders, posters & prints",
+      "price_per_item": "Vanaf €1,45 per stuk",
+      "variant_count": "6 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/kalenderverpakking-icon-e1713339911468-300x300.png",
+        "alt": "Kalenderverpakkingen Icon"
+      },
+      "url": "https://verpakgigant.nl/c/verzendverpakkingen/kalenderverpakkingen"
+    },
+    {
+      "keyword": "Kartonnen Dozen",
+      "description": "De standaard oplossing voor verzending en opslag",
+      "context": "Voor webshoporders, bulk & transport",
+      "price_per_item": "Vanaf €0,18 per doos",
+      "variant_count": "377 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/enkelgolf-vouwdoos-icon-e1713518901209-300x300.png",
+        "alt": "A3 verzenddoos"
+      },
+      "url": "https://verpakgigant.nl/c/kartonnen-dozen/"
+    },
+    {
+      "keyword": "Verzenddozen",
+      "description": "Dozen voor snelle en efficiënte verzending",
+      "context": "Voor kleine tot middelgrote webshoporders",
+      "price_per_item": "Vanaf €0,10 per doos",
+      "variant_count": "61 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/brievenbusdozen-icon-e1713338659414-300x300.png",
+        "alt": "Brievenbusdoos bovenklep"
+      },
+      "url": "https://verpakgigant.nl/c/verzenddozen/"
+    },
+    {
+      "keyword": "Luchtkussen Enveloppen",
+      "description": "Beschermende enveloppen met luchtkussenfolie",
+      "context": "Voor breekbare producten & webshopzendingen",
+      "price_per_item": "Vanaf €0,04 per envelop",
+      "variant_count": "54 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/Enveloppen-Icon-300x300.png",
+        "alt": "Bubbel Envelop staand"
+      },
+      "url": "https://verpakgigant.nl/c/enveloppen/luchtkussen-enveloppen/"
+    },
+    {
+      "keyword": "Verzendzakken",
+      "description": "Flexibele verzendverpakkingen voor lichte producten",
+      "context": "Voor kleding, softgoods & webshoporders",
+      "price_per_item": "Vanaf €0,03 per zak",
+      "variant_count": "87 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/verzendzakken-kleding-icon-300x300.png",
+        "alt": "Verzendzakken Icon"
+      },
+      "url": "https://verpakgigant.nl/c/verzendzakken/"
+    }
+  ],
+  "opvulmateriaal": [
+    {
+      "keyword": "Opvulchips",
+      "description": "Lichtgewicht opvulmateriaal voor bescherming",
+      "context": "Voor het opvullen van dozen & breekbare producten",
+      "price_per_item": "Vanaf €23,60 per zak",
+      "variant_count": "5 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/flo-pak-icon-288x300.png",
+        "alt": "Flo-Pak Opvulchips Icon"
+      },
+      "url": "https://verpakgigant.nl/c/opvulmateriaal/opvulchips/"
+    },
+    {
+      "keyword": "Opvulpapier",
+      "description": "Flexibel papier voor het beschermen en opvullen",
+      "context": "Voor webshoporders, breekbare producten & dozen",
+      "price_per_item": "Vanaf €13,56 per pak",
+      "variant_count": "14 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/opvulpapier-icon-300x300.png",
+        "alt": "Opvulpapier icon"
+      },
+      "url": "https://verpakgigant.nl/c/opvulmateriaal/opvulpapier"
+    },
+    {
+      "keyword": "Golfkarton",
+      "description": "Sterk karton voor bescherming en buffering",
+      "context": "Voor het beschermen van producten in dozen",
+      "price_per_item": "Vanaf €8,90 per rol",
+      "variant_count": "21 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/enkelzijdig-golfkarton-icon-300x300.png",
+        "alt": "Golfkarton Icon"
+      },
+      "url": "https://verpakgigant.nl/c/opvulmateriaal/golfkarton"
+    },
+    {
+      "keyword": "Instapak Schuimkussens",
+      "description": "Schuimoplossing die zich vormt naar het product",
+      "context": "Voor optimale bescherming van kwetsbare items",
+      "price_per_item": "Vanaf €2,87 per kussen",
+      "variant_count": "7 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/Instapak-Quick-RT-icon-300x300.png",
+        "alt": "Instapak Quick RT Icon"
+      },
+      "url": "https://verpakgigant.nl/c/opvulmateriaal/instapak-schuimkussens"
+    },
+    {
+      "keyword": "Luchtkussenzakjes",
+      "description": "Opblaasbare zakjes voor schokabsorptie",
+      "context": "Voor bescherming van producten tijdens transport",
+      "price_per_item": "Vanaf €27,51 per rol",
+      "variant_count": "11 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/BR4135-2-300x300.png.webp",
+        "alt": "Luchtkussenzakjes"
+      },
+      "url": "https://verpakgigant.nl/c/opvulmateriaal/luchtkussenzakjes"
+    },
+    {
+      "keyword": "Milieuvriendelijk Opvulmateriaal",
+      "description": "Duurzame oplossingen voor opvullen en beschermen",
+      "context": "Voor ecologische verzendingen & bewuste keuzes",
+      "price_per_item": "Vanaf €8,90 per stuk",
+      "variant_count": "25 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/Beschermmateriaal-Icon-e1713519021372-300x300.png.webp",
+        "alt": "Gerecyclede Noppenfolie"
+      },
+      "url": "https://verpakgigant.nl/c/opvulmateriaal/milieuvriendelijk"
+    }
+  ],
+  "beschermmateriaal": [
+    {
+      "keyword": "Noppenfolie",
+      "description": "Beschermende folie met luchtkussens",
+      "context": "Voor breekbare producten & veilige verzending",
+      "price_per_item": "Vanaf €18,34 per rol",
+      "variant_count": "24 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/noppenfolie-standaard-icon-e1713518587702-300x300.png",
+        "alt": "Standaard Noppenfolie Icon"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/noppenfolie"
+    },
+    {
+      "keyword": "Schuimfolie",
+      "description": "Zachte folie voor krasvrije bescherming",
+      "context": "Voor kwetsbare en gevoelige producten",
+      "price_per_item": "Vanaf €52,39 per rol",
+      "variant_count": "16 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/schuimfolie-icon-300x300.png",
+        "alt": "Schuimfolie Icon"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/schuimfolie"
+    },
+    {
+      "keyword": "Wikkelfolie",
+      "description": "Sterke folie voor het stabiliseren van pallets",
+      "context": "Voor pallets, opslag & transport",
+      "price_per_item": "Vanaf €1,96 per rol",
+      "variant_count": "56 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/wikkelfolie-icon-300x300.png.webp",
+        "alt": "Wikkelfolie Icon"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/wikkelfolie"
+    },
+    {
+      "keyword": "Buisfolie",
+      "description": "Flexibele folie voor producten op maat",
+      "context": "Voor lange, smalle of onregelmatige items",
+      "price_per_item": "Vanaf €18,50 per rol",
+      "variant_count": "24 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/10/fdb3d7fa-904a-47f7-bc0c-cbea7b12792d-300x300.png.webp",
+        "alt": "Buisfolie"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/buisfolie"
+    },
+    {
+      "keyword": "Krimpfolie",
+      "description": "Folie die strak om producten krimpt",
+      "context": "Voor bundelen, beschermen & transport",
+      "price_per_item": "Vanaf €2,41 per rol",
+      "variant_count": "28 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/krimpfolie-icon-300x300.png",
+        "alt": "Krimpfolie Icon"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/krimpfolie"
+    },
+    {
+      "keyword": "Palletbescherming",
+      "description": "Materialen voor het beschermen van pallets",
+      "context": "Voor transport, opslag & stabiliteit",
+      "price_per_item": "Vanaf €0,32 per stuk",
+      "variant_count": "55 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/06/f642e67c-1ab7-4d08-855e-fef7253b1bf9-300x300.png",
+        "alt": "Palletbescherming"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/pallettoebehoren"
+    }
+  ],
+  "magazijn-kantoor": [
+    {
+      "keyword": "Tape",
+      "description": "Sterke tape voor het sluiten van dozen",
+      "context": "Voor verzending, opslag & verpakken",
+      "price_per_item": "Vanaf €0,58 per rol",
+      "variant_count": "49 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/verpakkingstape-icon-e1713518372356-300x300.png.webp",
+        "alt": "Verpakkingstape Icon InPack"
+      },
+      "url": "https://verpakgigant.nl/c/magazijn-kantoor/tape"
+    },
+    {
+      "keyword": "Papier & Etiketten",
+      "description": "Alles voor labeling en documentatie",
+      "context": "Voor verzendlabels, stickers & papier",
+      "price_per_item": "Vanaf €0,61 per stuk",
+      "variant_count": "50 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/verzendlabels-icon-298x300.png",
+        "alt": "Verzendlabel"
+      },
+      "url": "https://verpakgigant.nl/c/magazijn-kantoor/papier-etiketten"
+    },
+    {
+      "keyword": "Magazijnbakken",
+      "description": "Stevige bakken voor opslag en orderpicking",
+      "context": "Voor magazijninrichting & organisatie",
+      "price_per_item": "Vanaf €0,39 per bak",
+      "variant_count": "3 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/06/eaa50d30-2852-46cd-bd39-026b501b5bc9-1-300x300.png.webp",
+        "alt": "Magazijnbak Icon"
+      },
+      "url": "https://verpakgigant.nl/c/magazijn-kantoor/magazijnbakken/"
+    },
+    {
+      "keyword": "Afval & Hygiëne",
+      "description": "Producten voor een schoon en georganiseerd magazijn",
+      "context": "Voor afvalverwerking & hygiëne",
+      "price_per_item": "Vanaf €1,65 per stuk",
+      "variant_count": "26 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/vuilniszakken-icon-300x300.png.webp",
+        "alt": "Vuilniszakken Icon"
+      },
+      "url": "https://verpakgigant.nl/c/magazijn-kantoor/afval-hygiene/"
+    },
+    {
+      "keyword": "Pallets",
+      "description": "Houten pallets voor transport en opslag",
+      "context": "Voor logistiek, opslag & verzending",
+      "price_per_item": "Vanaf €6,19 per stuk",
+      "variant_count": "6 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/europallet-icon-300x234.png",
+        "alt": "Pallets Icon"
+      },
+      "url": "https://verpakgigant.nl/c/magazijn-kantoor/pallets/"
+    },
+    {
+      "keyword": "Mineraal water",
+      "description": "Verfrissend water voor werkvloer en kantoor",
+      "context": "Voor personeel, magazijn & kantoor",
+      "price_per_item": "Vanaf €0,89 per stuk",
+      "variant_count": "1 variant",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/08/Theoni-water-gezond-ph8-mineraalwater-208x300.png",
+        "alt": "Theoni water - gezond ph8 mineraalwater"
+      },
+      "url": "https://verpakgigant.nl/c/magazijn-kantoor/mineraalwater/"
+    }
+  ],
+  "omsnoeringsmaterialen": [
+    {
+      "keyword": "Omsnoeringsbanden",
+      "description": "Sterke banden voor het vastzetten van ladingen",
+      "context": "Voor pallets, dozen & transport",
+      "price_per_item": "Vanaf €23,16 per rol",
+      "variant_count": "50 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/omsnoeringsband-icon-300x300.png",
+        "alt": "Omsnoeringsband Icon"
+      },
+      "url": "https://verpakgigant.nl/c/omsnoeringsmaterialen/omsnoeringsband"
+    },
+    {
+      "keyword": "Sluitzegels",
+      "description": "Metalen zegels voor stevige omsnoering",
+      "context": "Voor het vastzetten van omsnoeringsband",
+      "price_per_item": "Vanaf €0,03 per stuk",
+      "variant_count": "2 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/sluitzegels-icon-300x300.png",
+        "alt": "Sluitzegels Icon"
+      },
+      "url": "https://verpakgigant.nl/c/omsnoeringsmaterialen/sluitzegels"
+    },
+    {
+      "keyword": "Gespen",
+      "description": "Klemgespen voor het handmatig spannen van band",
+      "context": "Voor omsnoeringsband zonder machine",
+      "price_per_item": "Vanaf €0,02 per stuk",
+      "variant_count": "5 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/gespen-icon-300x300.png",
+        "alt": "Gespen Icon"
+      },
+      "url": "https://verpakgigant.nl/c/omsnoeringsmaterialen/gespen"
+    },
+    {
+      "keyword": "Bindtouw",
+      "description": "Sterk touw voor bundelen en vastzetten",
+      "context": "Voor dozen, pakketten & algemeen gebruik",
+      "price_per_item": "Vanaf €8,27 per rol",
+      "variant_count": "7 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2026/01/ChatGPT-Image-8-jan-2026-09_33_39-300x300.png.webp",
+        "alt": "Bindtouw"
+      },
+      "url": "https://verpakgigant.nl/c/omsnoeringsmaterialen/bindtouw/"
+    },
+    {
+      "keyword": "Haspelwagens",
+      "description": "Handige dispensers voor omsnoeringsband",
+      "context": "Voor efficiënt afrollen en verwerken",
+      "price_per_item": "Vanaf €173,46 per stuk",
+      "variant_count": "2 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/haspelwagen-icon-300x300.png",
+        "alt": "Haspelwagen Icon"
+      },
+      "url": "https://verpakgigant.nl/c/omsnoeringsmaterialen/haspelwagens"
+    },
+    {
+      "keyword": "Hoekprofielen",
+      "description": "Bescherming voor hoeken en randen",
+      "context": "Voor pallets, dozen & kwetsbare ladingen",
+      "price_per_item": "Vanaf €0,32 per stuk",
+      "variant_count": "9 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/06/1508d777-da67-41f9-a099-37aaf22a8bad-300x300.png",
+        "alt": "Hoekprofielen"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/pallettoebehoren/hoekprofielen/"
+    },
+    {
+      "keyword": "Andere Pallettoebehoren",
+      "description": "Aanvullende producten voor palletbescherming",
+      "context": "Voor stabiliteit, bescherming & transport",
+      "price_per_item": "Vanaf €0,32 per stuk",
+      "variant_count": "55 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/06/f642e67c-1ab7-4d08-855e-fef7253b1bf9-300x300.png",
+        "alt": "Andere Pallettoebehoren"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/pallettoebehoren/"
+    }
+  ],
+  "verpakkingsmachines": [
+    {
+      "keyword": "Opvulpapier Machines",
+      "description": "Machines voor snel en efficiënt opvullen",
+      "context": "Voor webshoporders & verpakkingslijnen",
+      "price_per_item": "Vanaf €125,76",
+      "variant_count": "9 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/06/PA5000-300x300.png.webp",
+        "alt": "ActivaPaper PA5000"
+      },
+      "url": "https://verpakgigant.nl/c/verpakkingsmachines/opvulpapiermachines/"
+    },
+    {
+      "keyword": "Luchtkussenmachines",
+      "description": "Machines voor het maken van luchtkussens",
+      "context": "Voor bescherming en opvulmateriaal op maat",
+      "price_per_item": "Vanaf €416,74",
+      "variant_count": "2 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2025/07/bp2001-600x600-1-300x300.png.webp",
+        "alt": "Luchtkussenmachines"
+      },
+      "url": "https://verpakgigant.nl/c/opvulmateriaal/luchtkussenzakjes/"
+    },
+    {
+      "keyword": "Dozensluiter",
+      "description": "Machines voor het automatisch sluiten van dozen",
+      "context": "Voor snelle en consistente verpakking",
+      "price_per_item": "Vanaf €1.100,40",
+      "variant_count": "7 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2025/07/Comarme_Gem_520-1-Bewerkt-300x300.png.webp",
+        "alt": "Dozensluiter"
+      },
+      "url": "https://verpakgigant.nl/c/verpakkingsmachines/doossluiter/"
+    },
+    {
+      "keyword": "Palletwikkelaars",
+      "description": "Machines voor het wikkelen van pallets",
+      "context": "Voor stabiele ladingen en veilig transport",
+      "price_per_item": "Vanaf €2.258,44",
+      "variant_count": "4 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2025/07/Eva-2022-1-1024x1024-2-300x300.png.webp",
+        "alt": "Palletwikkelaars"
+      },
+      "url": "https://verpakgigant.nl/c/verpakkingsmachines/palletwikkelaar/"
+    },
+    {
+      "keyword": "Omsnoeringsmachines",
+      "description": "Machines voor het omsnoeren van pallets en dozen",
+      "context": "Voor stevige en veilige bundeling",
+      "price_per_item": "Vanaf €917",
+      "variant_count": "5 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2025/07/admin-ajax-Bewerkt-300x300.png",
+        "alt": "Omsnoeringsmachine"
+      },
+      "url": "https://verpakgigant.nl/c/verpakkingsmachines/omsnoeringsmachines/"
+    },
+    {
+      "keyword": "Autobag® Systemen",
+      "description": "Geautomatiseerde verpakkingssystemen",
+      "context": "Voor snelle en efficiënte productverpakking",
+      "price_per_item": "Op aanvraag",
+      "variant_count": null,
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/12/Autobag-Ps-125-300x300.png",
+        "alt": "AutoBag PS 125"
+      },
+      "url": "https://verpakgigant.nl/c/verpakkingsmachines/verpakkingssystemen/?yith_wcan=1&filter_merk=autobag"
+    },
+    {
+      "keyword": "Verpakkingssystemen",
+      "description": "Complete oplossingen voor verpakkingsprocessen",
+      "context": "Voor automatisering en schaalbaarheid",
+      "price_per_item": "Op aanvraag",
+      "variant_count": null,
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2025/07/Ranpak-Formit%E2%84%A2-Case-300x300-2-300x300.png",
+        "alt": "Verpakkingssystemen"
+      },
+      "url": "https://verpakgigant.nl/c/verpakkingsmachines/verpakkingssystemen/"
+    },
+    {
+      "keyword": "Sealapparaten",
+      "description": "Machines voor het sealen van verpakkingen",
+      "context": "Voor folie, zakken & bescherming",
+      "price_per_item": "Vanaf €3.656,47",
+      "variant_count": "3 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2025/07/Ontwerp-zonder-titel-78-300x300.png.webp",
+        "alt": "Sealapparaten"
+      },
+      "url": "https://verpakgigant.nl/c/verpakkingsmachines/sealapparaat/"
+    },
+    {
+      "keyword": "Labelprinters",
+      "description": "Printers voor verzendlabels en barcodes",
+      "context": "Voor logistiek en orderverwerking",
+      "price_per_item": "Vanaf €104,75",
+      "variant_count": "1 variant",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2025/06/Verzendlabels-1-2-300x300.png.webp",
+        "alt": "Labelprinters"
+      },
+      "url": "https://verpakgigant.nl/product/labelprinter-standaard/"
+    },
+    {
+      "keyword": "Tape Dispensers",
+      "description": "Dispensers voor efficiënt gebruik van tape",
+      "context": "Voor snel en eenvoudig sluiten van dozen",
+      "price_per_item": "Vanaf €10,43",
+      "variant_count": "7 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2025/07/LOSQL_MI2_253992_WAT_EG_100_FRONT_00_20240514-300x300.png.webp",
+        "alt": "Tape Dispensers"
+      },
+      "url": "https://verpakgigant.nl/c/magazijn-kantoor/tape/tape-dispensers/"
+    }
+  ],
+  "verhuismateriaal": [
+    {
+      "keyword": "Verhuisdozen",
+      "description": "Stevige dozen voor verhuizen en opslag",
+      "context": "Voor boeken, servies & complete inboedels",
+      "price_per_item": "Vanaf €1,11 per doos",
+      "variant_count": "6 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2025/07/Ontwerp-zonder-titel-60-300x300.png.webp",
+        "alt": "Verhuisdoos"
+      },
+      "url": "https://verpakgigant.nl/c/kartonnen-dozen/verhuisdozen/"
+    },
+    {
+      "keyword": "Verhuisdekens",
+      "description": "Dikke dekens voor bescherming tijdens transport",
+      "context": "Voor meubels, apparaten & kwetsbare items",
+      "price_per_item": "Vanaf €1,82 per deken",
+      "variant_count": "3 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2025/07/4ab3df0c-ab2a-4a68-9d22-a80ed5d8785f-300x300.png.webp",
+        "alt": "Verhuisdekens"
+      },
+      "url": "https://verpakgigant.nl/c/verhuismateriaal/verhuisdekens/"
+    },
+    {
+      "keyword": "Matrashoezen",
+      "description": "Beschermhoezen voor matrassen",
+      "context": "Voor hygiënisch en veilig verhuizen",
+      "price_per_item": "Vanaf €2 per hoes",
+      "variant_count": "2 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2025/07/5dafc44f-a4b1-4f6c-a9e4-e2939cf504b7-300x300.png.webp",
+        "alt": "Matrashoezen"
+      },
+      "url": "https://verpakgigant.nl/c/verhuismateriaal/matrashoezen/"
+    },
+    {
+      "keyword": "Meubelhoezen",
+      "description": "Hoezen voor het beschermen van meubels",
+      "context": "Voor banken, stoelen & grote objecten",
+      "price_per_item": "Vanaf €1,51 per hoes",
+      "variant_count": "2 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2025/07/5082de06-ad3c-4ec8-875e-dd467777ddc6-300x300.png.webp",
+        "alt": "Meubelhoezen"
+      },
+      "url": "https://verpakgigant.nl/c/verhuismateriaal/meubelhoezen/"
+    },
+    {
+      "keyword": "Stucloper",
+      "description": "Sterk afdekmateriaal voor vloeren",
+      "context": "Voor bescherming tijdens klussen en verhuizingen",
+      "price_per_item": "Vanaf €15,72 per rol",
+      "variant_count": "6 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2025/07/Stucloper-Premium-PE-Coating--300x300.png.webp",
+        "alt": "Stucloper"
+      },
+      "url": "https://verpakgigant.nl/c/verhuismateriaal/stucloper/"
+    },
+    {
+      "keyword": "Afdekvlies",
+      "description": "Absorberend vlies voor vloerbescherming",
+      "context": "Voor schilderwerk & renovaties",
+      "price_per_item": "Vanaf €53,32 per rol",
+      "variant_count": "3 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2025/07/2c36ca73-3b61-4d11-af94-54d22a54e534-300x300.png.webp",
+        "alt": "Afdekvlies"
+      },
+      "url": "https://verpakgigant.nl/c/verhuismateriaal/afdekvlies/"
+    },
+    {
+      "keyword": "Witgoedzak",
+      "description": "Beschermzak voor grote apparaten",
+      "context": "Voor wasmachines, koelkasten & witgoed",
+      "price_per_item": "Vanaf €19,41 per zak",
+      "variant_count": "1 variant",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2025/07/d4ba67da-454e-4883-aeb0-bc85cd0fdc6c-300x300.png.webp",
+        "alt": "Witgoedzak"
+      },
+      "url": "https://verpakgigant.nl/c/verhuismateriaal/verhuiszak/"
+    },
+    {
+      "keyword": "Beschermmateriaal",
+      "description": "Materialen voor extra bescherming bij verhuizing",
+      "context": "Voor kwetsbare en waardevolle items",
+      "price_per_item": "Vanaf €0,32 per stuk",
+      "variant_count": "176 varianten",
+      "image": {
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E",
+        "alt": "Schuimfolie Icon"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/"
+    },
+    {
+      "keyword": "Schuimprofielen",
+      "description": "Profielen voor rand- en hoekbescherming",
+      "context": "Voor meubels, glas & kwetsbare producten",
+      "price_per_item": "Vanaf €0,51 per stuk",
+      "variant_count": "6 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/06/580931c1-4014-47a0-8df6-7f4fd6770464-300x300.png",
+        "alt": "Schuimprofielen"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/schuimprofielen/"
+    }
+  ],
+  "milieuvriendelijk-verpakkingsmateriaal": [
+    {
+      "keyword": "ECO Luchtkussen Enveloppen",
+      "description": "Duurzame enveloppen met beschermende luchtkussens",
+      "context": "Voor milieubewuste verzending van producten",
+      "price_per_item": "Vanaf €0,04 per stuk",
+      "variant_count": "12 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/11/verpakking-8-0-e1732026469564-300x300.webp",
+        "alt": "ECO Luchtkussen Enveloppen"
+      },
+      "url": "https://verpakgigant.nl/c/enveloppen/luchtkussen-enveloppen/bruin/"
+    },
+    {
+      "keyword": "Gerecyclede Noppenfolie",
+      "description": "Noppenfolie gemaakt van gerecycled materiaal",
+      "context": "Voor bescherming met minder impact op het milieu",
+      "price_per_item": "Vanaf €18,34 per rol",
+      "variant_count": "3 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/Beschermmateriaal-icon2-300x300.png",
+        "alt": "Bio Noppenfolie icon"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/noppenfolie/gerecycled"
+    },
+    {
+      "keyword": "Opvulpapier",
+      "description": "Recyclebaar papier voor opvullen en beschermen",
+      "context": "Voor webshoporders & duurzame verzending",
+      "price_per_item": "Vanaf €13,56 per pak",
+      "variant_count": "14 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/opvulpapier-icon-300x300.png",
+        "alt": "Opvulpapier icon"
+      },
+      "url": "https://verpakgigant.nl/c/opvulmateriaal/opvulpapier/vulpapier/"
+    },
+    {
+      "keyword": "BIO Flo-Pak Opvulchips",
+      "description": "Biologisch afbreekbare opvulchips",
+      "context": "Voor lichtgewicht en milieuvriendelijk opvullen",
+      "price_per_item": "Vanaf €23,58 per zak",
+      "variant_count": "3 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/flo-pak-icon-bio-300x300.png",
+        "alt": "Flo-Pak Bio Icon"
+      },
+      "url": "https://verpakgigant.nl/c/opvulmateriaal/opvulchips"
+    },
+    {
+      "keyword": "Golfkarton",
+      "description": "Recyclebaar karton voor bescherming en buffering",
+      "context": "Voor producten in dozen en transport",
+      "price_per_item": "Vanaf €8,90 per rol",
+      "variant_count": "21 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/enkelzijdig-golfkarton-icon-300x300.png",
+        "alt": "Golfkarton Icon"
+      },
+      "url": "https://verpakgigant.nl/c/opvulmateriaal/golfkarton/"
+    },
+    {
+      "keyword": "Papieren Luchtkussen Enveloppen",
+      "description": "Enveloppen van papier met beschermende laag",
+      "context": "Voor duurzame verzending van breekbare items",
+      "price_per_item": "Vanaf €0,15 per stuk",
+      "variant_count": "7 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/Papieren-Luchtkussen-enveloppen-icon-e1713342284748-300x300.png",
+        "alt": "Papieren Luchtkussen Enveloppen Icon"
+      },
+      "url": "https://verpakgigant.nl/c/enveloppen/luchtkussen-enveloppen/papier"
+    },
+    {
+      "keyword": "Papieren Verzendzakken",
+      "description": "Duurzame verzendzakken van kraftpapier",
+      "context": "Voor kleding, documenten & lichte producten",
+      "price_per_item": "Vanaf €0,31 per zak",
+      "variant_count": "6 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/papieren-verzendzakken-icon-300x300.png",
+        "alt": "Papieren Verzendzakken Icon"
+      },
+      "url": "https://verpakgigant.nl/c/verzendzakken/papieren-verzendzakken"
+    },
+    {
+      "keyword": "Papieren Noppenfolie",
+      "description": "Papieren alternatief voor traditionele noppenfolie",
+      "context": "Voor bescherming zonder plastic",
+      "price_per_item": "Vanaf €21,33 per rol",
+      "variant_count": "2 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/noppenpapier-icon-300x300.png",
+        "alt": "Papieren Noppenfolie Icon"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/noppenfolie/papier-noppenfolie/"
+    }
+  ],
+  "kartonnen-dozen/amerikaanse-vouwdozen": [
+    {
+      "keyword": "Enkelgolf Vouwdozen",
+      "description": "Lichte dozen voor standaard verzendingen",
+      "context": "Voor webshoporders & lichte producten",
+      "price_per_item": "Vanaf €0,18 per doos",
+      "variant_count": "187 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/enkelgolf-vouwdoos-icon-e1713518901209-300x300.png",
+        "alt": "A3 verzenddoos"
+      },
+      "url": "https://verpakgigant.nl/c/kartonnen-dozen/amerikaanse-vouwdozen/enkelgolf"
+    },
+    {
+      "keyword": "Dubbelgolf Vouwdozen",
+      "description": "Extra sterke dozen voor zwaardere producten",
+      "context": "Voor transport, opslag & bulkzendingen",
+      "price_per_item": "Vanaf €0,36 per doos",
+      "variant_count": "132 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/driedubbelgolf-vouwdozen-icon-300x300.png",
+        "alt": "Driedubbelgolf Vouwdozen"
+      },
+      "url": "https://verpakgigant.nl/c/kartonnen-dozen/amerikaanse-vouwdozen/dubbelgolf"
+    },
+    {
+      "keyword": "Driedubbelgolf Vouwdozen",
+      "description": "Maximale stevigheid voor zware ladingen",
+      "context": "Voor industriële toepassingen & export",
+      "price_per_item": "Vanaf €3,77 per doos",
+      "variant_count": "12 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/driedubbelgolf-vouwdozen-icon-300x300.png",
+        "alt": "Driedubbelgolf Vouwdozen"
+      },
+      "url": "https://verpakgigant.nl/c/kartonnen-dozen/amerikaanse-vouwdozen/dubbelgolf"
+    },
+    {
+      "keyword": "Bedrukte Vouwdozen",
+      "description": "Dozen met eigen bedrukking en branding",
+      "context": "Voor herkenbare en professionele verzending",
+      "price_per_item": "Op aanvraag",
+      "variant_count": null,
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/kerstdozen-icon-300x282.png",
+        "alt": "Kerstdozen Icon"
+      },
+      "url": "https://verpakgigant.nl/vouwdozen-bedrukken"
+    },
+    {
+      "keyword": "Andere Kartonnen Dozen",
+      "description": "Bekijk het volledige assortiment dozen",
+      "context": "Voor elke toepassing een passende oplossing",
+      "price_per_item": "Vanaf €0,10 per doos",
+      "variant_count": "377 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/autolock-dozen-icon-e1713519083167-300x300.png",
+        "alt": "Autolock Dozen icon"
+      },
+      "url": "https://verpakgigant.nl/c/kartonnen-dozen"
+    }
+  ],
+  "enveloppen/luchtkussen-enveloppen": [
+    {
+      "keyword": "Witte Luchtkussen Enveloppen",
+      "description": "Beschermende enveloppen met neutrale uitstraling",
+      "context": "Voor webshoporders & standaard verzendingen",
+      "price_per_item": "Vanaf €0,04 per stuk",
+      "variant_count": "15 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/Enveloppen-Icon-300x300.png",
+        "alt": "Bubbel Envelop staand"
+      },
+      "url": "https://verpakgigant.nl/c/enveloppen/luchtkussen-enveloppen/wit/"
+    },
+    {
+      "keyword": "Bruine Eco Luchtkussen Enveloppen",
+      "description": "Duurzame enveloppen van gerecycled materiaal",
+      "context": "Voor milieubewuste verzendingen",
+      "price_per_item": "Vanaf €0,04 per stuk",
+      "variant_count": "12 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/11/verpakking-8-0-e1732026469564-300x300.webp",
+        "alt": "Bruine Eco Luchtkussen Enveloppen"
+      },
+      "url": "https://verpakgigant.nl/c/enveloppen/luchtkussen-enveloppen/bruin/"
+    },
+    {
+      "keyword": "Port Betaald Luchtkussen Enveloppen",
+      "description": "Enveloppen met vooraf geregeld porto",
+      "context": "Voor snelle en eenvoudige verzending",
+      "price_per_item": "Vanaf €0,05 per stuk",
+      "variant_count": "4 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/Port-betaald-luchtkussen-enveloppen-icon-300x300.png",
+        "alt": "Port Betaald Luchtkussen Enveloppen Icon"
+      },
+      "url": "https://verpakgigant.nl/c/enveloppen/luchtkussen-enveloppen/port-betaald"
+    },
+    {
+      "keyword": "Gekleurde Luchtkussen Enveloppen",
+      "description": "Opvallende enveloppen voor herkenbare verzending",
+      "context": "Voor branding & webshoporders",
+      "price_per_item": "Vanaf €0,27 per stuk",
+      "variant_count": "12 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/ab512e01-5cb1-4dec-944c-6ef3f2c561b9-300x288.png",
+        "alt": "Gekleurde Luchtkussen Enveloppen"
+      },
+      "url": "https://verpakgigant.nl/c/enveloppen/luchtkussen-enveloppen/gekleurd"
+    },
+    {
+      "keyword": "Papieren Luchtkussen Enveloppen",
+      "description": "Duurzame enveloppen met papieren bescherming",
+      "context": "Voor plasticvrije verzending",
+      "price_per_item": "Vanaf €0,15 per stuk",
+      "variant_count": "7 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/Papieren-Luchtkussen-enveloppen-icon-e1713342284748-300x300.png",
+        "alt": "Papieren Luchtkussen Enveloppen Icon"
+      },
+      "url": "https://verpakgigant.nl/c/enveloppen/luchtkussen-enveloppen/papier"
+    },
+    {
+      "keyword": "Bedrukte Luchtkussen Enveloppen",
+      "description": "Enveloppen met eigen logo of design",
+      "context": "Voor professionele en herkenbare zendingen",
+      "price_per_item": "Op aanvraag",
+      "variant_count": null,
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/Bedrukte-luchtkussen-enveloppen-300x290.png",
+        "alt": "Bedrukte Luchtkussen Enveloppen"
+      },
+      "url": "https://verpakgigant.nl/luchtkussen-enveloppen-bedrukken"
+    }
+  ],
+  "opvulmateriaal/verpakkingspapier": [
+    {
+      "keyword": "Opvulpapier",
+      "description": "Flexibel papier voor opvullen en beschermen",
+      "context": "Voor webshoporders & breekbare producten",
+      "price_per_item": "Vanaf €13,56 per pak",
+      "variant_count": "14 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/opvulpapier-icon-300x300.png",
+        "alt": "Opvulpapier icon"
+      },
+      "url": "https://verpakgigant.nl/c/opvulmateriaal/opvulpapier/vulpapier"
+    },
+    {
+      "keyword": "Golfkarton",
+      "description": "Sterk karton voor bescherming en buffering",
+      "context": "Voor producten in dozen en transport",
+      "price_per_item": "Vanaf €8,90 per rol",
+      "variant_count": "21 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/enkelzijdig-golfkarton-icon-300x300.png",
+        "alt": "Golfkarton Icon"
+      },
+      "url": "https://verpakgigant.nl/c/opvulmateriaal/opvulpapier/golfkarton/"
+    },
+    {
+      "keyword": "Kraftpapier",
+      "description": "Stevig papier voor verpakken en beschermen",
+      "context": "Voor inpakken, opvullen & bescherming",
+      "price_per_item": "Vanaf €0,07 per vel",
+      "variant_count": "22 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/06/34c50a13-f630-4db9-8a8b-d8c2110a45ea-300x300.png",
+        "alt": "Kraftpapier"
+      },
+      "url": "https://verpakgigant.nl/c/opvulmateriaal/kraftpapier"
+    },
+    {
+      "keyword": "Zijdepapier",
+      "description": "Dun papier voor bescherming en presentatie",
+      "context": "Voor kleding, cadeaus & delicate producten",
+      "price_per_item": "Vanaf €0,09 per vel",
+      "variant_count": "6 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/06/8821c5d8-07fb-4756-8b55-c221a2882b7c-300x300.png",
+        "alt": "Zijdepapier"
+      },
+      "url": "https://verpakgigant.nl/c/opvulmateriaal/zijdepapier"
+    },
+    {
+      "keyword": "Papiersnippers",
+      "description": "Licht opvulmateriaal van versnipperd papier",
+      "context": "Voor bescherming en decoratieve opvulling",
+      "price_per_item": "Vanaf €30,66 per doos",
+      "variant_count": "9 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/06/b1ea98d2-910d-4063-a87a-8f96853f36e8-300x300.png.webp",
+        "alt": "Papiersnippers"
+      },
+      "url": "https://verpakgigant.nl/c/opvulmateriaal/opvulpapier/papiersnippers/"
+    },
+    {
+      "keyword": "Honingraat Papier",
+      "description": "Papier met schokabsorberende structuur",
+      "context": "Voor duurzame bescherming zonder plastic",
+      "price_per_item": "Vanaf €15,35 per rol",
+      "variant_count": "8 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/06/339f3227-2a6a-47df-9cea-8a2c558f9039-300x300.png",
+        "alt": "Honingraat Papier"
+      },
+      "url": "https://verpakgigant.nl/c/opvulmateriaal/opvulpapier/honingraat-papier/"
+    },
+    {
+      "keyword": "Opvulpapier Machines",
+      "description": "Machines voor snel en efficiënt opvullen",
+      "context": "Voor verpakkingslijnen & hogere volumes",
+      "price_per_item": "Vanaf €125,76",
+      "variant_count": "9 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/06/389b61cf-9af3-4de5-9be1-8932e80f3cc2-186x300.png",
+        "alt": "Opvulpapier Machines"
+      },
+      "url": "https://verpakgigant.nl/c/opvulmateriaal/opvulpapier/vulpapier"
+    }
+  ],
+  "beschermmateriaal/pallettoebehoren": [
+    {
+      "keyword": "Bekijk alles",
+      "description": "Compleet assortiment pallettoebehoren",
+      "context": "Voor bescherming, stabiliteit & transport",
+      "price_per_item": "Vanaf €0,22 per stuk",
+      "variant_count": "55 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/06/f642e67c-1ab7-4d08-855e-fef7253b1bf9-300x300.png",
+        "alt": "Bekijk alles"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/pallettoebehoren/alles/"
+    },
+    {
+      "keyword": "Palletdozen",
+      "description": "Grote dozen voor palletzendingen",
+      "context": "Voor bulktransport & zware producten",
+      "price_per_item": "Vanaf €9,32 per doos",
+      "variant_count": "7 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/palletdozen-icon-e1713518516977-300x300.png",
+        "alt": "Palletdozen Icon"
+      },
+      "url": "https://verpakgigant.nl/c/kartonnen-dozen/palletdozen/"
+    },
+    {
+      "keyword": "Wikkelfolie",
+      "description": "Sterke folie voor het stabiliseren van pallets",
+      "context": "Voor transport, opslag & bescherming",
+      "price_per_item": "Vanaf €1,96 per rol",
+      "variant_count": "56 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/wikkelfolie-icon-300x300.png.webp",
+        "alt": "Wikkelfolie Icon"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/wikkelfolie/"
+    },
+    {
+      "keyword": "Topvellen",
+      "description": "Beschermvellen voor bovenop pallets",
+      "context": "Voor bescherming tegen vuil en vocht",
+      "price_per_item": "Vanaf €66,39 per rol",
+      "variant_count": "7 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/06/0e8fce5c-be70-4bbf-bf9a-6210a14bda4b-300x300.png",
+        "alt": "Topvellen"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/pallettoebehoren/topvellen/"
+    },
+    {
+      "keyword": "Kartonnen Platen",
+      "description": "Stevige platen voor extra bescherming",
+      "context": "Voor scheiding en stabiliteit van ladingen",
+      "price_per_item": "Vanaf €0,30 per plaat",
+      "variant_count": "13 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/06/87da4a2b-36df-4cc9-88ab-b74107cf5691-300x300.png",
+        "alt": "Kartonnen Platen"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/pallettoebehoren/kartonnen-platen/"
+    },
+    {
+      "keyword": "Hoekprofielen",
+      "description": "Bescherming voor hoeken en randen",
+      "context": "Voor pallets, dozen & kwetsbare ladingen",
+      "price_per_item": "Vanaf €0,32 per stuk",
+      "variant_count": "9 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/06/1508d777-da67-41f9-a099-37aaf22a8bad-300x300.png",
+        "alt": "Hoekprofielen"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/pallettoebehoren/hoekprofielen/"
+    },
+    {
+      "keyword": "Schuimprofielen",
+      "description": "Zachte profielen voor randbescherming",
+      "context": "Voor meubels, glas & kwetsbare producten",
+      "price_per_item": "Vanaf €0,51 per stuk",
+      "variant_count": "6 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/06/580931c1-4014-47a0-8df6-7f4fd6770464-300x300.png",
+        "alt": "Schuimprofielen"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/schuimprofielen/"
+    },
+    {
+      "keyword": "Pallethoeden",
+      "description": "Beschermhoezen voor pallets",
+      "context": "Voor bescherming tegen stof en vuil",
+      "price_per_item": "Vanaf €1,16 per stuk",
+      "variant_count": "2 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/31f385d3-2521-402c-96c2-37572fdca24f-300x300.png",
+        "alt": "Palletbescherming"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/pallettoebehoren/pallethoeden/"
+    },
+    {
+      "keyword": "Pallets",
+      "description": "Houten pallets voor transport en opslag",
+      "context": "Voor logistiek, opslag & verzending",
+      "price_per_item": "Vanaf €6,19 per stuk",
+      "variant_count": "6 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/europallet-icon-300x234.png",
+        "alt": "Pallets Icon"
+      },
+      "url": "https://verpakgigant.nl/c/magazijn-kantoor/pallets/"
+    },
+    {
+      "keyword": "Omsnoeringsmaterialen",
+      "description": "Materialen voor het vastzetten van ladingen",
+      "context": "Voor pallets, dozen & transport",
+      "price_per_item": "Vanaf €0,02 per stuk",
+      "variant_count": "79 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/omsnoeringsband-icon-300x300.png",
+        "alt": "Omsnoeringsband Icon"
+      },
+      "url": "https://verpakgigant.nl/c/omsnoeringsmaterialen/"
+    }
+  ],
+  "beschermmateriaal/noppenfolie": [
+    {
+      "keyword": "Alle Varianten Noppenfolie",
+      "description": "Compleet assortiment noppenfolie",
+      "context": "Voor elke toepassing de juiste bescherming",
+      "price_per_item": "Vanaf €18,34 per rol",
+      "variant_count": "24 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/d8cf14e5-0245-49fd-a6df-8f9a2e07d3e9-300x300.png",
+        "alt": "Alle noppenfolie"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/noppenfolie/alle-varianten"
+    },
+    {
+      "keyword": "Standaard Noppenfolie",
+      "description": "Veelgebruikte folie met luchtkussens",
+      "context": "Voor algemene bescherming van producten",
+      "price_per_item": "Vanaf €18,34 per rol",
+      "variant_count": "7 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/noppenfolie-standaard-icon-e1713518587702-300x300.png",
+        "alt": "Standaard Noppenfolie Icon"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/noppenfolie/standaard-noppenfolie"
+    },
+    {
+      "keyword": "Gerecyclede Noppenfolie",
+      "description": "Noppenfolie van gerecycled materiaal",
+      "context": "Voor duurzame bescherming van zendingen",
+      "price_per_item": "Vanaf €18,34 per rol",
+      "variant_count": "3 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/Beschermmateriaal-Icon-e1713519021372-300x300.png.webp",
+        "alt": "Gerecyclede Noppenfolie"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/noppenfolie/gerecycled"
+    },
+    {
+      "keyword": "Papieren Noppenfolie",
+      "description": "Milieuvriendelijk alternatief zonder plastic",
+      "context": "Voor duurzame en recyclebare bescherming",
+      "price_per_item": "Vanaf €21,33 per rol",
+      "variant_count": "2 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/noppenpapier-icon-300x300.png",
+        "alt": "Papieren Noppenfolie Icon"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/noppenfolie/papier-noppenfolie"
+    },
+    {
+      "keyword": "Antistatische Noppenfolie",
+      "description": "Beschermt tegen statische elektriciteit",
+      "context": "Voor elektronica en gevoelige producten",
+      "price_per_item": "Vanaf €47,15 per rol",
+      "variant_count": "1 variant",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/0343ec6c-e297-49a9-aff5-7e692c2e125d-300x300.png",
+        "alt": "Antistatische Noppenfolie"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/noppenfolie/antistatische-noppenfolie/"
+    },
+    {
+      "keyword": "Noppenfolie Zakken",
+      "description": "Kant-en-klare zakken met luchtkussens",
+      "context": "Voor snelle en eenvoudige bescherming",
+      "price_per_item": "Vanaf €0,08 per zak",
+      "variant_count": "10 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/06/9a358c9b-d99a-4656-9458-0c679f0cef29-300x300.png",
+        "alt": "Noppenfolie Zakken"
+      },
+      "url": "https://verpakgigant.nl/c/beschermmateriaal/noppenfolie/transparante-luchtkussenzakjes/"
+    }
+  ],
+  "magazijn-kantoor/tape": [
+    {
+      "keyword": "Verpakkingstape",
+      "description": "Sterke tape voor het sluiten van dozen",
+      "context": "Voor verzending, opslag & verpakking",
+      "price_per_item": "Vanaf €0,39 per rol",
+      "variant_count": "20 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/verpakkingstape-icon-e1713518372356-300x300.png.webp",
+        "alt": "Verpakkingstape Icon InPack"
+      },
+      "url": "https://verpakgigant.nl/c/magazijn-kantoor/tape/verpakkingstape"
+    },
+    {
+      "keyword": "Machinetape",
+      "description": "Tape voor automatische dozensluiters",
+      "context": "Voor efficiënte verwerking in verpakkingslijnen",
+      "price_per_item": "Vanaf €12,99 per rol",
+      "variant_count": "6 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/Machinetape-300x300.png.webp",
+        "alt": "Machinetape"
+      },
+      "url": "https://verpakgigant.nl/c/magazijn-kantoor/tape/machinetape/"
+    },
+    {
+      "keyword": "Waarschuwingstape",
+      "description": "Opvallende tape met waarschuwingstekst",
+      "context": "Voor herkenbare en veilige verzending",
+      "price_per_item": "Vanaf €1,45 per rol",
+      "variant_count": "1 variant",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/waarschuwingstape-icon-300x300.png.webp",
+        "alt": "Waarschuwingstape Icon"
+      },
+      "url": "https://verpakgigant.nl/c/magazijn-kantoor/tape/waarschuwingstape"
+    },
+    {
+      "keyword": "Filament Tape",
+      "description": "Extra sterke tape met glasvezelversterking",
+      "context": "Voor zware dozen en bundeling",
+      "price_per_item": "Vanaf €1,95 per rol",
+      "variant_count": "4 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/Filament-Tape-300x300.png.webp",
+        "alt": "Filament Tape"
+      },
+      "url": "https://verpakgigant.nl/c/magazijn-kantoor/tape/filament-tape/"
+    },
+    {
+      "keyword": "Gegomde Tape",
+      "description": "Papieren tape met sterke kleefkracht",
+      "context": "Voor duurzame en stevige sluiting",
+      "price_per_item": "Vanaf €3,14 per rol",
+      "variant_count": "13 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/06/597ee32b-3acc-4ab2-8dc0-1df623acf19b-300x300.png.webp",
+        "alt": "Gegomde Tape icon"
+      },
+      "url": "https://verpakgigant.nl/c/magazijn-kantoor/tape/gegomd/"
+    },
+    {
+      "keyword": "Afplaktape",
+      "description": "Tape voor afplakken en beschermen",
+      "context": "Voor schilderwerk & tijdelijke bevestiging",
+      "price_per_item": "Vanaf €1,09 per rol",
+      "variant_count": "4 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/AfplakTape-300x300.png.webp",
+        "alt": "Afplaktape"
+      },
+      "url": "https://verpakgigant.nl/c/magazijn-kantoor/tape/afplaktape/"
+    },
+    {
+      "keyword": "Tapedispensers",
+      "description": "Handige dispensers voor tapegebruik",
+      "context": "Voor snel en efficiënt werken",
+      "price_per_item": "Vanaf €10,43 per stuk",
+      "variant_count": "7 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/tapedispenser-icon-298x300.png",
+        "alt": "Tapedispenser Icon"
+      },
+      "url": "https://verpakgigant.nl/c/magazijn-kantoor/tape/tape-dispensers"
+    },
+    {
+      "keyword": "Bedrukte Tape",
+      "description": "Tape met eigen logo of bedrukking",
+      "context": "Voor branding en herkenbare zendingen",
+      "price_per_item": "Op aanvraag",
+      "variant_count": null,
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/Bedrukte-Tape-300x300.png.webp",
+        "alt": "Bedrukte tape"
+      },
+      "url": "https://verpakgigant.nl/tape-bedrukken"
+    }
+  ],
+  "magazijn-kantoor/papier-etiketten": [
+    {
+      "keyword": "Verzendlabels",
+      "description": "Labels voor verzending en logistiek",
+      "context": "Voor pakketten, barcodes & orderverwerking",
+      "price_per_item": "Vanaf €0,61 per rol",
+      "variant_count": "23 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/verzendlabels-icon-298x300.png",
+        "alt": "Verzendlabel"
+      },
+      "url": "https://verpakgigant.nl/c/magazijn-kantoor/papier-etiketten/verzendlabels"
+    },
+    {
+      "keyword": "Sluitstickers",
+      "description": "Stickers voor het sluiten van verpakkingen",
+      "context": "Voor dozen, zakken & enveloppen",
+      "price_per_item": "Vanaf €3,19 per rol",
+      "variant_count": "16 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2025/11/Sticker-Groen-50mm-300x300.png.webp",
+        "alt": "Sluitstickers Groen 50 mm"
+      },
+      "url": "https://verpakgigant.nl/c/magazijn-kantoor/papier-etiketten/sluitstickers/"
+    },
+    {
+      "keyword": "Waarschuwingsetiketten",
+      "description": "Opvallende etiketten met waarschuwing",
+      "context": "Voor breekbaar, voorzichtig & handling",
+      "price_per_item": "Vanaf €3,39 per rol",
+      "variant_count": "9 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/06/0f8a6e55-5d0d-4361-8160-b31ae61e35f9-300x283.png",
+        "alt": "Waarschuwingsetiketten"
+      },
+      "url": "https://verpakgigant.nl/c/magazijn-kantoor/papier-etiketten/waarschuwingsetiketten/"
+    },
+    {
+      "keyword": "Papier",
+      "description": "Papier voor printen en administratie",
+      "context": "Voor kantoor, documenten & labels",
+      "price_per_item": "Vanaf €13,16 per pak",
+      "variant_count": "3 varianten",
+      "image": {
+        "src": "https://verpakgigant.nl/wp-content/uploads/2024/04/a4-papier-icon-300x300.png",
+        "alt": "A4 papier Double A"
+      },
+      "url": "https://verpakgigant.nl/c/magazijn-kantoor/papier-etiketten/a4-papier"
+    }
+  ]
+}
